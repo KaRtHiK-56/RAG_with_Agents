@@ -1,4 +1,4 @@
-# PetHealth AI: A Generative AI Assistant for Pet Health Documentation and Reporting
+# PetHealth AI: A Generative AI Assistant for Pet Health Documentation and Reporting.
 
 Table of Contents
 
